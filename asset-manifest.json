@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-random-quote/static/css/main.208f2c9f.chunk.css",
-  "main.js": "/react-random-quote/static/js/main.9b50ed12.chunk.js",
-  "main.js.map": "/react-random-quote/static/js/main.9b50ed12.chunk.js.map",
+  "main.css": "/react-random-quote/static/css/main.cc0a9846.chunk.css",
+  "main.js": "/react-random-quote/static/js/main.da9ade60.chunk.js",
+  "main.js.map": "/react-random-quote/static/js/main.da9ade60.chunk.js.map",
   "static/js/1.6105a37c.chunk.js": "/react-random-quote/static/js/1.6105a37c.chunk.js",
   "static/js/1.6105a37c.chunk.js.map": "/react-random-quote/static/js/1.6105a37c.chunk.js.map",
   "runtime~main.js": "/react-random-quote/static/js/runtime~main.25824d9f.js",
   "runtime~main.js.map": "/react-random-quote/static/js/runtime~main.25824d9f.js.map",
-  "static/css/main.208f2c9f.chunk.css.map": "/react-random-quote/static/css/main.208f2c9f.chunk.css.map",
+  "static/css/main.cc0a9846.chunk.css.map": "/react-random-quote/static/css/main.cc0a9846.chunk.css.map",
   "static/media/logo.svg": "/react-random-quote/static/media/logo.5d5d9eef.svg",
   "static/media/App.css": "/react-random-quote/static/media/background.24fc77fe.png",
   "index.html": "/react-random-quote/index.html",
-  "precache-manifest.a1236a860b4b0d6b74908a43c62ea24d.js": "/react-random-quote/precache-manifest.a1236a860b4b0d6b74908a43c62ea24d.js",
+  "precache-manifest.5f4109845dff6af9265686ed8641122e.js": "/react-random-quote/precache-manifest.5f4109845dff6af9265686ed8641122e.js",
   "service-worker.js": "/react-random-quote/service-worker.js"
 }
