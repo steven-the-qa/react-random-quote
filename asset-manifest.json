@@ -1,7 +1,7 @@
 {
   "main.css": "/react-random-quote/static/css/main.51f4e81d.chunk.css",
-  "main.js": "/react-random-quote/static/js/main.314a9cfa.chunk.js",
-  "main.js.map": "/react-random-quote/static/js/main.314a9cfa.chunk.js.map",
+  "main.js": "/react-random-quote/static/js/main.823c5b23.chunk.js",
+  "main.js.map": "/react-random-quote/static/js/main.823c5b23.chunk.js.map",
   "static/js/1.93574c42.chunk.js": "/react-random-quote/static/js/1.93574c42.chunk.js",
   "static/js/1.93574c42.chunk.js.map": "/react-random-quote/static/js/1.93574c42.chunk.js.map",
   "runtime~main.js": "/react-random-quote/static/js/runtime~main.25824d9f.js",
@@ -10,6 +10,6 @@
   "static/media/logo.svg": "/react-random-quote/static/media/logo.5d5d9eef.svg",
   "static/media/App.css": "/react-random-quote/static/media/background.24fc77fe.png",
   "index.html": "/react-random-quote/index.html",
-  "precache-manifest.8cb6d903cc5c156c5749024fe5ff6f1d.js": "/react-random-quote/precache-manifest.8cb6d903cc5c156c5749024fe5ff6f1d.js",
+  "precache-manifest.24984dfa4cc89b5b4be39965051c9613.js": "/react-random-quote/precache-manifest.24984dfa4cc89b5b4be39965051c9613.js",
   "service-worker.js": "/react-random-quote/service-worker.js"
 }
